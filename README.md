@@ -1,4 +1,4 @@
-# Excel-Video-Games-Project
+# Video Games Sales Analysis
 
 Tools used:
 
